@@ -1,0 +1,44 @@
+--- Person A ---
+Full Name: Maria Example
+Email: maria.example@testmail.local
+Phone: +1-555-010-2020
+SSN (FAKE): 111-22-3333
+Date of Birth: 1990-02-15
+Address: 123 Test Ave, Faketown, CA 90000
+
+--- Person B ---
+Full Name: John Dummy
+Email: john.dummy@fakecorp.internal
+Phone: +44 7700 900123
+National ID (FAKE): ID-ABC-987654
+Address: 42 Mockingbird Lane, Sample City, UK
+
+--- Bank Account (FAKE) ---
+Account Holder: Test User
+IBAN: GB82 WEST 1234 5698 7654 32
+SWIFT/BIC: DEUTDEFF
+Bank Name: Fake National Bank
+
+--- Credit Cards (TEST NUMBERS) ---
+Mastercard: 5555 5555 5555 4444
+Visa: 4012 8888 8888 1881
+AmEx: 3782 822463 10005
+
+--- Credentials (FAKE) ---
+Username: test.user
+Password: P@ssw0rd123!
+API Key: sk_test_1234567890abcdef
+OAuth Token: ya29.testtokenvalue.fake
+
+--- Medical (FAKE) ---
+Patient ID: PAT-000123
+Diagnosis: Test Condition
+Policy Number: INS-TEST-456789
+
+--- Vehicle Data (FAKE) ---
+Owner: Alex Sample
+VIN: 1HGCM82633A000000
+License Plate: TEST-123
+
+--- Notes ---
+
